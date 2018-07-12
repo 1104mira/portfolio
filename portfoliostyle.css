@@ -1,11 +1,25 @@
 body {
-    background: yellow 
+    background: yellow;
 }
 
-#tm{
-    font-family: 'Times New Roman', Times, serif
-} 
-  
-#green{ 
-    color: green
+#tm {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#green {
+    color: green;
+}
+
+#jeans {
+    float: left;
+    width: 30%;
+}
+
+#paragraph1 {
+    float: right;
+    width: 50%;
+}  
+
+img { 
+    Width: 150%;
 }
