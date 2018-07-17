@@ -24,6 +24,17 @@ Comment:  Overall your code is very clean.  I did note a few things as TODO item
 
 Assignment: Use Google Forms to add a contact form to your page.
 
-Grade: 
+Grade: 85
 
-Comment:  You got this in early, good job, but there's something wrong with the form... it doesn't show up on your page;  You still have time, so I'm not grading you on this yet.
+Comment:  You got this in early, good job, but the form is broken... it looks like you have the link broken up in to two lines, which caused the problem.
+
+You had this:
+
+src="https://docs.google.com/forms/d/e/1FAIpQLSfY5jdhOlMiwIQT 
+  TX4SkU21Z9zhdlsyc0vJW_C7J01wJjeT4g/viewform?embedded=true"
+
+and it needed to be this:
+
+src="https://docs.google.com/forms/d/e/1FAIpQLSfY5jdhOlMiwIQTTX4SkU21Z9zhdlsyc0vJW_C7J01wJjeT4g/viewform?embedded=true"
+
+(I know it probably wraps to multiple lines, but that's just the way it's displayed... it's all one long line.  Try clicking [Alt]+Z and see the line wrapping change.)
