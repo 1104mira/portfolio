@@ -1,9 +1,9 @@
 body {
-    background: rgb(238, 238, 126);
+    background: white;
 }
 
 #tm {
-    font-family: 'Lobster', cursive;
+    font-family: 'Libre Baskerville', serif;
     
     font-family: 'Great Vibes', cursive;
 } 
@@ -13,8 +13,8 @@ h1 {
 }
 
 
-#green {
-    color: green;
+#yellow {
+    color: rgb(194, 175, 3);
 }
 
 #jeans {
