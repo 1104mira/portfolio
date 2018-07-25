@@ -31,6 +31,7 @@ img {
     Width: 150%;
 }
 
+/* TODO:  Consider using hover on your a href links instead of the h1 tag - it should prompt the user to take an action */
 #about:hover {
 font-size: 150%;
 }
