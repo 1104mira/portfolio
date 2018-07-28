@@ -1,5 +1,7 @@
 Portfolio final grade: 82
 
+Comments:  Decent start, but I'm sure you can do more if you apply yourself.   
+
 ########
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
