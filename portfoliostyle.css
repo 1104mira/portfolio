@@ -18,12 +18,12 @@ h1 {
 }
 
 #jeans {
-    float: left;
+    float: left up;
     width: 30%;
 }
 
 #paragraph1 {
-    float: right;
+    float: left down;
     width: 50%;
 }  
 
