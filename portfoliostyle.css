@@ -18,12 +18,12 @@ h1 {
 }
 
 #jeans {
-    float: left up;
+    float: left;
     width: 30%;
 }
 
 #paragraph1 {
-    float: left down;
+    float: Right;
     width: 50%;
 }  
 
@@ -33,5 +33,5 @@ img {
 
 /* TODO:  Consider using hover on your a href links instead of the h1 tag - it should prompt the user to take an action */
 #about:hover {
-font-size: 150%;
+color: rgb(194, 175, 3);
 }
